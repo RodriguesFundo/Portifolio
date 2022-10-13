@@ -1,3 +1,18 @@
 span{
     color: aliceblue;
 }
+
+nav{
+    /* background: #111C56; */
+    background-color: #758ECD;
+    opacity: 90%;
+}
+a:hover{
+    /* background-color: #FFFF; */
+    opacity: 90%;
+}
+a{
+    color: #FFFF;
+    font-family: Raleway, sans-serif;
+}
+

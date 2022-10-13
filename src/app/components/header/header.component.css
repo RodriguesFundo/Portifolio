@@ -1,9 +1,7 @@
-*{
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
+img{
+    border-radius: 50%;
 }
+
 header{
-    border: solid red;
-    
+    background-color :#1B2F45 ;
 }
